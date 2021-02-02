@@ -1,0 +1,25 @@
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\Sound Detection.exe.config
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\Sound Detection.exe
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\Sound Detection.pdb
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\NAudio.Asio.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\NAudio.Core.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\NAudio.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\NAudio.Midi.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\NAudio.Wasapi.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\NAudio.WinForms.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\NAudio.WinMM.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\System.Security.AccessControl.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\NAudio.xml
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\System.Security.AccessControl.xml
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\obj\Debug\Sound Detection.csprojAssemblyReference.cache
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\obj\Debug\Sound_Detection.Form1.resources
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\obj\Debug\Sound_Detection.Properties.Resources.resources
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\obj\Debug\Sound Detection.csproj.GenerateResource.cache
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\obj\Debug\Sound Detection.csproj.CoreCompileInputs.cache
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\obj\Debug\Sound Detection.csproj.CopyComplete
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\obj\Debug\Sound Detection.exe
+C:\Users\mouss\Desktop\Sound Detection\Sound Detection\obj\Debug\Sound Detection.pdb
